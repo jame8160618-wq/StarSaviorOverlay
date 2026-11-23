@@ -1,0 +1,12 @@
+﻿.venv/
+build/
+dist/
+*.spec
+__pycache__/
+*.pyc
+page_dump.html
+raw_rsc_events.json
+events.json
+region_config.json
+roi_config.json
+sync_state.json
